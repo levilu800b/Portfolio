@@ -21,7 +21,7 @@ a {
     background-size: 700px;
     background-position: right;
     background-repeat: no-repeat;
-    background-image: url("/images/bg1.jpg");
+    background-image: url("images/img1.jpg");
     background-color: #edf1fd;
 }
 
